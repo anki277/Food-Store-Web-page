@@ -1,0 +1,44 @@
+.main{
+     display:flex;
+     -ms-flex: 1; /* IE 10 */
+     flex: 1;
+     }
+#image{
+       width:250px;
+       height:250p;
+       padding:20px 40px 70px 70px;
+       margin: 20px 40px 70px 70px;
+      }
+#text{
+      font-family:courier;
+      font-size:13px;
+      color:grey;
+      padding:20px 80px 70px 70px;
+      margin:20px 80px 70px 70px;
+     }
+h2{
+   color:red;
+  }
+button{
+       background-color:green;
+       width:60px;
+       height:30px;
+       border-radius:10px;
+       text-align:center;
+      }
+.checked{
+         color:orange;
+        }
+#glyphicon glyphicon-tag{
+                         text-align:center;
+                         float:center;
+                        }
+#fa fa-rupee{
+             align:center;
+             float:center;
+            }
+#glyphicon glyphicon-sunglasses{
+                                 text-align:right;
+                                 float:right;
+                               }
+                              
